@@ -1,0 +1,6 @@
+framework module Pods_DemoSwiftyCam {
+  umbrella header "Pods-DemoSwiftyCam-umbrella.h"
+
+  export *
+  module * { export * }
+}

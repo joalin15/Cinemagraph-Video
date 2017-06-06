@@ -1,0 +1,12 @@
+PODS:
+  - SwiftyCam (2.2.1)
+
+DEPENDENCIES:
+  - SwiftyCam
+
+SPEC CHECKSUMS:
+  SwiftyCam: 966b67eeab2dfcfd0077eaa3c5a6bd69e1748af0
+
+PODFILE CHECKSUM: 06c6e6aca368db6702f85c447a28bac993cfd201
+
+COCOAPODS: 1.1.1
